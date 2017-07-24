@@ -6,4 +6,4 @@ console.log("git");
  console.log("git added");
  gfcgjcgbvnvnbvnbvnbvnbvbvbgvg;
 
-prompt("changed");
+console.log("changed");
